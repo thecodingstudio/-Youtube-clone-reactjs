@@ -1,0 +1,23 @@
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 75%;
+}
+
+.search-button {
+    border: '2px solid';
+    border-radius: "25px";
+    height: "40px";
+    width: "5%";
+}
+
+.search-button:hover {
+    background-color: rgb(226, 122, 122);
+}
